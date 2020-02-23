@@ -6,11 +6,11 @@ This application includes the computerized versions of the games "Connect4" and 
 &nbsp;&nbsp;<b>M</b>ongoDB (the database)<br>
 &nbsp;&nbsp;<b>E</b>xpress.js (the middleware)<br>
 &nbsp;&nbsp;<b>A</b>ngular.js (the client side magic)<br>
-&nbsp;&nbsp;<b>N</b>ode.js (the server)<br>
+&nbsp;&nbsp;<b>N</b>ode.js (the server)<br><br>
 
-<h2>Getting Started:</h2>
+The detailed instructions on set-up and execution of the project is discussed below. <br><br>
 
-<h4>Step 1: Install the MEAN stack</h4>
+<h2>Getting Started: Step 1: Install the MEAN stack</h2>
 
 <b>Install NodeJS and MongoDB on Windows</b><br>
 

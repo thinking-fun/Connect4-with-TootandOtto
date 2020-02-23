@@ -3,7 +3,7 @@
 This application includes the computerized versions of the games "Connect4" and "Toot & Otto". The application is developed using the MEAN stack.
 
 <h4>The MEAN Stack:</h4>
-    <b>M</b>ongoDB (the database)\\	
+    <b>M</b>ongoDB (the database)<br>
     <b>E</b>xpress.js (the middleware)	
     <b>A</b>ngular.js (the client side magic)	
     <b>N</b>ode.js (the server)

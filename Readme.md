@@ -3,10 +3,10 @@
 This application includes the computerized versions of the games "Connect4" and "Toot & Otto". The application is developed using the MEAN stack.
 
 <h4>The MEAN Stack:</h4>
-    <b>M</b>ongoDB (the database)<br>
-    <b>E</b>xpress.js (the middleware)	
-    <b>A</b>ngular.js (the client side magic)	
-    <b>N</b>ode.js (the server)
+&nbsp;&nbsp;<b>M</b>ongoDB (the database)<br>
+&nbsp;&nbsp;<b>E</b>xpress.js (the middleware)<br>
+&nbsp;&nbsp;<b>A</b>ngular.js (the client side magic)<br>
+&nbsp;&nbsp;<b>N</b>ode.js (the server)<br>
 
 <h2>Getting Started:</h2>
 
@@ -14,14 +14,14 @@ This application includes the computerized versions of the games "Connect4" and 
 
 <h5>Install NodeJS and MongoDB on Windows</h5>
 
-   <b> To Install NodeJS on Windows:</b> 
-        a. Download the Windows installer from the https://nodejs.org/en/download/ web site.
-        b. Run the installer (the .msi file you downloaded in the previous step.)
-        c. Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).
-        d. Restart your computer. You won’t be able to run Node.js until you restart your computer.
+   <b> To Install NodeJS on Windows:</b> <br>
+&nbsp;&nbsp;a. Download the Windows installer from the https://nodejs.org/en/download/ web site.<br>
+&nbsp;&nbsp;b. Run the installer (the .msi file you downloaded in the previous step.)<br>
+&nbsp;&nbsp;c. Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).<br>
+&nbsp;&nbsp;d. Restart your computer. You won’t be able to run Node.js until you restart your computer.<br>
         
    <b> To test the NodeJS installation:</b>
-       open the Windows Command Prompt, Powershell or a similar command line tool, and type 
+&nbsp;&nbsp; open the Windows Command Prompt, Powershell or a similar command line tool, and type 
         
        node -v
        
@@ -30,10 +30,9 @@ This application includes the computerized versions of the games "Connect4" and 
        npm -v
 
    <b> To Install MongoDB on Windows:</b> 
-      a. Download the MongoDB installer file from the downloads section of the MongoDB website.
-      b. Find the dowloaded .msi file in the Windows Explorer. Double click the file and follow the prompts to install Mongo. 
-      c. Start the mongodb daemon by running C:\mongodb\bin\mongod.exe in the Command Prompt. Or by running, C:\path\to\mongodb\bin\mongod.exe
-      d. Connect to MongoDB using the Mongo shell While the MongoDB daemon is running, from a different Command prompt window run C:\mongodb\bin\mongo.exe
+&nbsp;&nbsp;a. Download the MongoDB installer file from the downloads section of the MongoDB website.<br>
+&nbsp;&nbsp;b. Find the dowloaded .msi file in the Windows Explorer. Double click the file and follow the prompts to install Mongo.<br>
+&nbsp;&nbsp;c. Start the mongodb daemon by running C:\mongodb\bin\mongod.exe in the Command Prompt. Or by running, C:\path\to\mongodb\bin\mongod.exe<br>
 
 <h5>Install NodeJS and MongoDB on MacOS:</h5>
 

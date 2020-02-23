@@ -7,12 +7,11 @@ This application includes the computerized versions of the games "Connect4" and 
     <b>E</b>xpress.js (the middleware)	
     <b>A</b>ngular.js (the client side magic)	
     <b>N</b>ode.js (the server)
-<br><br>
 
 <h2>Getting Started:</h2>
 
 <h4>Step 1: Install the MEAN stack</h4>
-<br><br>
+
 <h5>Install NodeJS and MongoDB on Windows</h5>
 
    <b> To Install NodeJS on Windows:</b> 
@@ -35,8 +34,6 @@ This application includes the computerized versions of the games "Connect4" and 
       b. Find the dowloaded .msi file in the Windows Explorer. Double click the file and follow the prompts to install Mongo. 
       c. Start the mongodb daemon by running C:\mongodb\bin\mongod.exe in the Command Prompt. Or by running, C:\path\to\mongodb\bin\mongod.exe
       d. Connect to MongoDB using the Mongo shell While the MongoDB daemon is running, from a different Command prompt window run C:\mongodb\bin\mongo.exe
-
-<br><br>
 
 <h5>Install NodeJS and MongoDB on MacOS:</h5>
 
@@ -77,8 +74,6 @@ This application includes the computerized versions of the games "Connect4" and 
    c. Start the Mongo server by typing: 
    
         mongod
-        
- <br><br>
  
  <h5> Install Express and AngularJS </h5>
  
@@ -90,11 +85,27 @@ This application includes the computerized versions of the games "Connect4" and 
     
  <h4>Step 2: Install Dependencies</h4> 
  
- To Install the Dependencies in the Project
- 
  a. Clone Github repository by typing
  
-    $ git clone https://https://github.com/thinking-fun/Connect4-with-TootandOtto
+    $ git clone https://github.com/thinking-fun/Connect4-with-TootandOtto.git
+    
+ b. Open Terminal and move to the project root directory
+ c. To install the project dependencies mentioned in the Package.json file, type:
+ 
+    $ npm install
+    
+ <h4>Step 3: Execute Project</h4>
+ 
+ a. Open Terminal and move to the project root directory
+ b. In the Terminal window type:
+ 
+    $ npm start
+    
+ npm start by default will run the application on port 3000. To view the application window, open browser and type:
+ 
+    http://localhost:3000/
+    
+ Happy Coding!
  
  
 

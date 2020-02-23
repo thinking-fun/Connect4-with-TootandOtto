@@ -82,7 +82,7 @@ The detailed instructions on set-up and execution of the project is discussed be
     
     $ sudo npm i -g @angular/cli
     
- <h4>Step 2: Install Dependencies</h4> 
+ <h2>Step 2: Install Dependencies</h2> 
  
  i. Clone Github repository by typing
  
@@ -93,7 +93,7 @@ The detailed instructions on set-up and execution of the project is discussed be
  
     $ npm install
     
- <h4>Step 3: Execute Project</h4>
+ <h2>Step 3: Execute Project</h2>
  
  i. Open Terminal and move to the project root directory <br>
  ii. In the Terminal window type:

@@ -12,7 +12,7 @@ The detailed instructions on set-up and execution of the project is discussed be
 
 <h2>Getting Started: Step 1: Install the MEAN stack</h2>
 
-<h3>A. Install NodeJS and MongoDB on Windows</h3><br>
+<h3>A. Install NodeJS and MongoDB on Windows</h3>
 
    <h5> Installing NodeJS:</h5>
 &nbsp;&nbsp;&nbsp;&nbsp;i. Download the Windows installer from the https://nodejs.org/en/download/ web site.<br>
@@ -23,18 +23,18 @@ The detailed instructions on set-up and execution of the project is discussed be
    <h5> Testing the NodeJS installation:</h5>
 &nbsp;&nbsp;&nbsp;&nbsp; Open the Windows Command Prompt, Powershell or a similar command line tool, and type 
         
-       node -v
+      C:\> node -v
        
-   <h5> Testing NPM installation:</h5> type 
+   <h5> Testing NPM installation:</h5>
        
-       npm -v
+      C:\> npm -v
 
    <h5> To Install MongoDB on Windows:</h5> 
 &nbsp;&nbsp;&nbsp;&nbsp;i. Download the MongoDB installer file from the downloads section of the MongoDB website.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;ii. Find the dowloaded .msi file in the Windows Explorer. Double click the file and follow the prompts to install Mongo.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;iii. Start the mongodb daemon by running C:\mongodb\bin\mongod.exe in the Command Prompt.<br>
 
-<h3>B. Install NodeJS and MongoDB on MacOS:</h3> <br>
+<h3>B. Install NodeJS and MongoDB on MacOS:</h3>
 
 <h5> Installing NodeJS: </h5>
 
@@ -53,26 +53,26 @@ The detailed instructions on set-up and execution of the project is discussed be
 
    i. First, you need to install Homebrew and this can be done by running the following command on Termnal:
             
-        /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
   
   ii. Once Homebrew installation completes, all you have to do is run the following command to install Node:
         
-        brew install node
+    $ brew install node
   iii. And you’re done. Just to be sure, to verify that the things are in order, in your Terminal run:
   
-        node -v
+    $ node -v
 
 <h5> To Install and Run MongoDB with Homebrew </h5>
 
    i. Open the Terminal app and type 
         
-        brew update.
+    $ brew update.
    ii. After updating Homebrew brew 
         
-        install mongodb
+    $ install mongodb
    iii. Start the Mongo server by typing: 
    
-        mongod
+    $ mongod
  
  <h3> C. Install Express and AngularJS </h5>
  
